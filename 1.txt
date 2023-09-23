@@ -1,0 +1,12 @@
+1. List out the features of Html5
+  → The features of Html5 are:
+
+i)Semantic Elements: HTML5 introduced new semantic elements like <header>, <nav>, <section>, <article>, <footer>, and     more, which provide a clearer structure and meaning to web content.
+
+ii)Audio and Video: HTML5 includes native support for embedding audio and video content using the <audio> and <video> elements, reducing the reliance on third-party plugins like Flash.
+
+iii)Canvas: The <canvas> element allows developers to draw graphics, animations, and interactive content using JavaScript, providing a powerful graphics API.
+
+iv)Web Workers: Web Workers enable running scripts in the background, improving the responsiveness of web applications by offloading CPU-intensive tasks to separate threads.
+
+v)Web Storage: HTML5 introduced localStorage and sessionStorage for client-side storage, allowing web applications to store data locally without relying on cookies.
